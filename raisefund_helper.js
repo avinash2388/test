@@ -8,7 +8,7 @@ function startApp(abi2,MyContract2,myContractInstance2){
 	    MyContract=MyContract2;
 	    myContractInstance=myContractInstance2;
 }
-
+//this will add the project details
 function addProject(){ 
 	var projTitle = document.getElementById('projTitle').value;
 	var projDesc = document.getElementById('projDesc').value;
